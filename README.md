@@ -2,7 +2,7 @@
 
 Fuzzie is a powerful workflow automation platform that helps you connect your favorite tools and automate repetitive tasks. Built with modern web technologies, Fuzzie provides an intuitive visual interface for creating complex automation workflows.
 
-![Fuzzie Platform](public/fuzzieLogo.png)
+![image](https://github.com/user-attachments/assets/74e7a049-4019-4eb6-b0d4-cd2d63f46304)
 
 ## 🚀 Features
 
