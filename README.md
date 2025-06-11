@@ -217,7 +217,3 @@ This project is licensed under the MIT License.
 ## 🔒 Security
 
 If you discover a security vulnerability, please send an e-mail to security@fuzzie.com. All security vulnerabilities will be promptly addressed.
-
----
-
-**Built with ❤️ by the Fuzzie Team**
