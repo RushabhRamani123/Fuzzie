@@ -210,10 +210,6 @@ This project uses:
 
 We welcome contributions! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## 🔒 Security
 
 If you discover a security vulnerability, please send an e-mail to security@fuzzie.com. All security vulnerabilities will be promptly addressed.
